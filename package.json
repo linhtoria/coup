@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Online web app to play coup with friends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linhtoria/coup.git"
+  },
+  "author": "Victoria Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linhtoria/coup/issues"
+  },
+  "homepage": "https://github.com/linhtoria/coup#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
